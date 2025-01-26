@@ -1,0 +1,32 @@
+acquire:elde etmek
+associate:ilişkilendirmek
+distinct:farklı
+genuine:hakiki
+acknowledge:kabul etmek
+acquisition:edinim
+adequate:yeterli
+adjacent:bitişik
+allocate:pay etmek
+ally:müttefik
+antibody:antikor
+verse:ayet
+withdraw:para çekmek
+yield:verim
+depreciation:amortisman
+derivative:türev
+disapprove:onaylamamak
+discharge:deşarj
+discourse:söylev
+disposal:imha etme
+dispute:tartışma
+dissolve:eritmek
+distant:uzak
+distinct:farklı
+distinguish:ayırt etmek
+elaborate:ayrıntılı
+elect:atamak
+embrace:kucaklamak
+emerge:ortaya çıkmak
+encounter:karşılaşmak
+equity:tarafsızlık
+equivalent:eşdeğer
